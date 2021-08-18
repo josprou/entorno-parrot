@@ -1,5 +1,5 @@
 #! /bin/sh
-#~/.config/bspwm
+#~/.config/bspwmrc
 sxhkd &
 compton --config /home/s4vitar/.config/compton/compton.conf &
 feh --bg-fill /home/s4vitar/Desktop/s4vitar/Images/Helado.jpg &
