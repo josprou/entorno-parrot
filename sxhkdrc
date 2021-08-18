@@ -1,4 +1,4 @@
-# ~/.config/sxhkd
+# ~/.config/sxhkdrc
 # wm independent hotkeys
 #
 
@@ -127,7 +127,7 @@ super + ctrl + {Left,Down,Up,Right}
 
 # Custom move/resize
 alt + super + {Left,Down,Up,Right}
-	/home/replicator/.config/bspwm/scripts/bspwm_resize {west,south,north,east}
+	/home/s4vitar/.config/bspwm/scripts/bspwm_resize {west,south,north,east}
 
 
 # ---------------------------------------------
